@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/platform_hardware_qcom_sdm845_media
+defaultbranch=android13
